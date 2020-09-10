@@ -2,7 +2,7 @@
 
 一枚后端开发菜鸟, 目前主攻 Golang
 
-- Nickname: Lolioy(oytian)
+- Nickname: Lolioy (oytian)
 
 - Understand: Golang / PHP
 
