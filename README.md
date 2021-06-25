@@ -1,6 +1,6 @@
 ### About me 🍺
 
-一枚后端开发菜鸟，目前主营方向：Golang
+一枚后端开发菜鸟，目前主要从事Go开发
 
 - Nickname: Lolioy (oytian)
 
